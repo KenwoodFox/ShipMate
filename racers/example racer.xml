@@ -4,6 +4,8 @@
 		<captain>John Smith</captain>
 		<bow>888-888</bow>
 		<crDate>1-1-2018</crDate>
+		<PHRF>200</PHRF>     <!--Number used to calculate handicap. (http://www.phrfne.org/)  -->
+		<Model>Pearson 25</Model>     <!--Model Name (ex. Hobie 16)  -->
 	</boat>
 	<race>
 		<tag>race1</tag>
