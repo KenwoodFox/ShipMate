@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<base>
+	<boat>
+		<captain>John Smith</captain>
+		<bow>888-888</bow>
+		<crDate>1-1-2018</crDate>
+	</boat>
+	<race>
+		<tag>race1</tag>
+		<start></start>
+		<finish></finish>
+	</race>
+</base>

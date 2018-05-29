@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<base>
+	<boats>
+		<racer>/example racer.xml</racer>
+	</boats>
+</base>

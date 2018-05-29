@@ -16,5 +16,25 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void fileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void editToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            V
+        }
     }
 }
