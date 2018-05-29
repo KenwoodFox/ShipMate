@@ -8,6 +8,6 @@
 	<race>
 		<tag>race1</tag>
 		<start></start>
-		<finish></finish>
+		<finish></finish> <!--Comment! -->
 	</race>
 </base>
