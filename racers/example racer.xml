@@ -1,13 +1,14 @@
 <?xml version="1.0"?>
+<!--Comment example  -->
+
 <base>
 	<boat>
-		<captain>John Smith</captain>
+		<captain>example racer</captain>
 		<bow>888-888</bow>
 		<crDate>1-1-2018</crDate>
 	</boat>
 	<race>
-		<tag>race1</tag>
-		<start></start>
-		<finish></finish> <!--Comment example  -->
+		<rName>example race</rName>
+		<lap>10.0</lap>
 	</race>
 </base>
