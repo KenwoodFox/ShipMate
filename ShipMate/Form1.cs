@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp1
+namespace ShipMate
 {
     public partial class Form1 : Form
     {
@@ -17,7 +17,12 @@ namespace WindowsFormsApp1
             InitializeComponent();
         }
 
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel2_Paint(object sender, PaintEventArgs e)
         {
 
         }
@@ -27,14 +32,9 @@ namespace WindowsFormsApp1
 
         }
 
-        private void fileToolStripMenuItem_Click(object sender, EventArgs e)
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
-        }
-
-        private void editToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            V
         }
     }
 }
